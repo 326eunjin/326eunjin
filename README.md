@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=mail.ru&logoColor=white&style=for-the-badge)](mailto:326eunjin@naver.com)
 
 
-### Skills
+### 👩‍💻Skills
 
 #### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
