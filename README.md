@@ -38,7 +38,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry%20pi&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon%20aws&logoColor=white&style=for-the-badge)
 
-
+### 💯Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=326eunjin&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=326eunjin&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
