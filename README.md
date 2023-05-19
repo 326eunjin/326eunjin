@@ -1,7 +1,9 @@
 ### Hi there 👋
-[![Notion](https://img.shields.io/badge/Notion-Workspace-1a73e8?logo=notion&logoColor=white&style=for-the-badge)](notion://326eunjin.notion.site)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=mail.ru&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
+###Contacts
+[![Notion](https://img.shields.io/badge/Notion-Page-1a73e8?logo=notion&logoColor=white&style=for-the-badge)](https://326eunjin.notion.site)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=mail.ru&logoColor=white&style=for-the-badge)](mailto:326eunjin@naver.com)
+
 
 
 
