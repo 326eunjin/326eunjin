@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! I am a student studying Software Engineering👋
 
 ### 📞 Contacts
 
