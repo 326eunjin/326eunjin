@@ -1,10 +1,11 @@
-## Hi there! I am a student studying Software Engineering👋
+### Hi there! I am a student studying Software Engineering👋
 
 ### 📞 Contacts
 
 [![Notion](https://img.shields.io/badge/Notion-Page-1a73e8?logo=notion&logoColor=white&style=for-the-badge)](https://326eunjin.notion.site)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=mail.ru&logoColor=white&style=for-the-badge)](mailto:326eunjin@naver.com)
 
+---
 ### 👩‍💻 Skills
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
@@ -31,7 +32,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry%20pi&logoColor=white&style=for-the-badge) ![
 AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon%20aws&logoColor=white&style=for-the-badge)
 
-
+---
 ### 💯 Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=326eunjin&show_icons=true&include_all_commits=true&theme=default&bg_color=ffffff">
