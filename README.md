@@ -41,4 +41,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=326eunjin&show_icons=true&theme=radical)
 [![Solved.ac
-326eunjin](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+326eunjin](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle}))
