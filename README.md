@@ -37,3 +37,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry%20pi&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon%20aws&logoColor=white&style=for-the-badge)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=326eunjin&show_icons=true&theme=radical)
