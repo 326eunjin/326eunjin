@@ -5,7 +5,7 @@
 [![Notion](https://img.shields.io/badge/Notion-Page-1a73e8?logo=notion&logoColor=white&style=for-the-badge)](https://326eunjin.notion.site)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=mail.ru&logoColor=white&style=for-the-badge)](mailto:326eunjin@naver.com)
 ---
-### 💯 Stats
+<!---### 💯 Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=326eunjin&show_icons=true&include_all_commits=true&theme=default&bg_color=ffffff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=326eunjin&layout=compact&theme=default&bg_color=ffffff">
@@ -14,7 +14,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=326eunjin)](https://solved.ac/326eunjin)
 
----
+--- -->
 ### 👩‍💻 Skills
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
