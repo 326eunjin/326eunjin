@@ -15,7 +15,7 @@
 
 I'm a backend developer based in Seoul 🇰🇷 with 2+ year of professional experience building scalable infrastructure for **medical AI platforms** in clinical environments.
 
-Focused on **performance**, **security**, and **clean architecture** — actively looking for backend or DevOps roles at international tech companies.
+Focused on **performance**, **security**, and **clean architecture**
 
 - 🏥 Currently @ **JLK** — backend & DevOps on an AI-based stroke diagnosis platform
 - ⚡ Dramatically improved API performance through ORM optimization and caching strategies
