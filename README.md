@@ -57,7 +57,7 @@ Focused on **performance**, **security**, and **clean architecture**
 
 ## Featured Work
 
-### 🧠 Medical AI Platform @ JLK *(2024 – Present)*
+### 🧠 Medical AI Platform @ JLK *(Jan 2024 – Present)*
 Backend & DevOps for an AI-assisted stroke diagnosis platform used in clinical environments.
 - Optimized ORM queries and caching → **dramatically improved API performance**
 - Led **cloud infrastructure migration** with enhanced security and high availability architecture
